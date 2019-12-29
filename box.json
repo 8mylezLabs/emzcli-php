@@ -1,0 +1,18 @@
+{
+  "chmod": "0755",
+  "directories": [
+    "src"
+  ],
+  "files": [
+
+  ],
+  "finder": [
+    {
+      "name": "*.php",
+      "in": "vendor"
+    }
+  ],
+  "main": "src/index.php",
+  "output": "emz.phar",
+  "stub": true
+}
